@@ -50,5 +50,13 @@ My main idea was to create a different model for every label class. I tried some
 
 I had only some hours for this project. I think, I could get a better result if I had more time (I would try more different models with different parameters). 
 
+#### to run: 
+python3 train.py
+
+#### preconditions: 
+train.tsv and test.tsv are in the same directory as train.py
+
+#### output: 
+tags.tsv file
 
 
